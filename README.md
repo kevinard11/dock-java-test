@@ -1,2 +1,2 @@
 # dock-java-test
-Dcoker Java API
+Docker Java API
